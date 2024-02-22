@@ -1,0 +1,15 @@
+{
+  "name": "wpvip-mqtt-notifications",
+  "version": "1.0.0",
+  "description": "Publish Wordpress VIP notifications to Adafruit IO MQTT broker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Christoph Khouri",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^5.3.5"
+  }
+}
